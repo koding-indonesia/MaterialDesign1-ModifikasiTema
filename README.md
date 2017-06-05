@@ -1,4 +1,4 @@
-# MaterialDesign1-ModifikasiTema
+# Material Design Bagian I - Modifikasi Tema
 User Interface (UI) - Modifikasi Tema Dengan Material Design
 
 Terdiri dari 3 file yang telah dimodifikasi, yaitu:
